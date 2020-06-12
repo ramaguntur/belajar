@@ -1,0 +1,26 @@
+{
+  "name": "belajar",
+  "version": "1.0.0",
+  "description": "belajar node js express js react ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramaguntur/belajar.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "js",
+    "react"
+  ],
+  "author": "Rama Guntur Ardana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramaguntur/belajar/issues"
+  },
+  "homepage": "https://github.com/ramaguntur/belajar#readme"
+}
